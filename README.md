@@ -1,5 +1,5 @@
 # prepare-tutorial-db
-Script for creating tutorial.db (SQLite) for future pet projects
+Script for creating tutorial.db (SQLite) for future pet projects.
 
 # Build
 For creating tutorial.db:
